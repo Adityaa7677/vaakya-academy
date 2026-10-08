@@ -1,0 +1,10 @@
+# Dependencies & agent skills
+.agents/
+GEMINI.md
+.gemini/
+.vercel/
+
+# OS and temp files
+Thumbs.db
+.DS_Store
+*.log
